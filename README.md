@@ -1,4 +1,4 @@
-# CI/CD pipeline with Snowflake
+# CI/CD pipeline with Snowflake SS
 Demo of a simple CI/CD pipeline deployed onto Snowflake with Terraform
 
 [![PRODUCTION ENV: Snowflake Terraform Demo Workflow](https://github.com/sfc-gh-sekim/cicd-snowflake-with-terraform-demo/actions/workflows/snowflake-terraform-demo-prod.yml/badge.svg)](https://github.com/sfc-gh-sekim/cicd-snowflake-with-terraform-demo/actions/workflows/snowflake-terraform-demo-prod.yml)
